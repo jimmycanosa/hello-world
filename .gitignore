@@ -17,5 +17,6 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.lsp/
 
 # End of https://www.toptal.com/developers/gitignore/api/clojure
